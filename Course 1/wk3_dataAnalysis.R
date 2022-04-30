@@ -87,3 +87,16 @@ mean(theta1>theta2)
 # Note for other distributions:
 # dgamma,pgamma,qgamma,rgamma
 # dnorm,pnorm,qnorm,rnorm
+
+# for quiz L7
+# q5
+pbeta(q=0.5,shape1=1,shape2=5)
+
+# q7
+qbeta(p=0.975,shape1=8,shape2=16)
+
+# q8
+pbeta(q=0.35,shape1=1,shape2=5)
+
+# for quiz L8
+qgamma(p=0.05,shape=67,rate=6)
